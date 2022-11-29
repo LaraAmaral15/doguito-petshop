@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="projeto" src="../view-project.png" width="100%">
+  <img alt="projeto" src="view-project.png" width="100%">
 </p>
 <hr>
 

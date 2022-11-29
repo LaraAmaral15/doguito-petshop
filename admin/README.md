@@ -1,6 +1,13 @@
 
-# Petshop
-Esse projeto tem como proposta criar um CRUD com JavaScript, desenvolvido durante o curso da Alura "JS na web: CRUD com JavaScript assíncrono
+<h1 align="center"> Doguito Petshop</h1>
+
+<p align="center">
+  Esse projeto tem como proposta criar um CRUD com JavaScript, desenvolvido durante o curso da Alura "JS na web: CRUD com JavaScript assíncrono
+</p>
+
+<p align="center">
+  <img alt="projeto" src="../view-project.png" width="100%">
+</p>
 <hr>
 
 ## Para rodar
